@@ -1,0 +1,77 @@
+html, body {
+  height: 100%;
+  width: 100%;
+   background-color:  #1f0033
+}
+
+
+.title {
+    font-size: 50px;
+    background-image: linear-gradient(#4c0080,#66d9ff);
+    font-weight: 800;
+    padding: 0 20px;
+        color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+.intro{display: flex; justify-content:space-around;color:#5c00e6;  background-color: #00ffcc;
+}
+
+.breif{display: flex; justify-content:space-around; font-family:sans-serif;font-weight:100; font-size:20px; color:#99ffdd;
+      }
+.colums{display: flex; justify-content:space-around;
+}
+.code{display: flex; justify-content:flex-end; color:#ffff80;
+      background-color: #7300e6;border-color:#bf00ff ;
+    border-style: double;
+}
+.dw{display: flex; justify-content:flex-start ;color:#ffff80;
+      background-color: #7300e6;border-color:#bf00ff ;
+    border-style: double; } 
+
+.colums-2{display: flex; justify-content:space-around;
+  
+}
+
+.drawing-1{display: flex; justify-content: flex-start; width: 350px;  
+         }
+
+.drawing-2{display: flex; justify-content: flex-start; width: 350px;  
+         }
+.drawing-3{display: flex; justify-content: flex-start; width: 350px;  
+         }
+.drawing-4{display: flex; justify-content: flex-start; width: 350px;  
+         }
+
+.dwep{color:#3d0099; width: 250px;  display: flex; justify-content: flex-start; 
+      background-color:#FF387B;
+    margin: 20px;
+    padding: 20px;
+    border-width: 5px;
+    border-color: #ffccff;
+    border-style: dotted;
+    
+}
+.materials{
+  
+}
+.projects{display: flex; justify-content:flex-end; color:#99ffdd; width:350px; 
+}
+.pop{display: flex; justify-content:flex-end; color:#0033cc; width: 250px; 
+     background-color:#66ff99;
+    margin: 20px;
+    padding: 20px;
+    border-width: 5px;
+    border-color: #3399ff;
+    border-style: dotted;
+}
+.project1{width: 350px;
+}
+.project2{width: 350px; 
+}
+.project3{width: 350px;
+}
+.project4{width: 350px;
+}
+.project5{width: 350px;
+}
